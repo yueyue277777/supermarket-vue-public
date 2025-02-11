@@ -67,7 +67,7 @@ http://localhost:8081/
 1.本机安装GIT，输入命令
 
 ```java
-git clone https://gitee.com/ynwynw/bill-system.git
+git clone [https://gitee.com/ynwynw/bill-system.git](https://github.com/yueyue277777/supermarket-vue-public.git)
 ```
 
 2.前端使用VsCode打开front文件夹，控制台输入npm i 安装依赖
